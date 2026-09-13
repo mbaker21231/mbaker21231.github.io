@@ -1,0 +1,21 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Matthew J. Baker
+
+Professor of Economics, Hunter College and The Graduate Center, City University of New York
+
+[Download full CV (PDF)](files/Matthew_Baker_CV.pdf){.btn .btn-primary}
+
+[Graduate Center profile](https://www.gc.cuny.edu/people/matthew-baker) · [RePEc](https://ideas.repec.org/e/pba114.html) · [GitHub](https://github.com/mbaker21231)
+
+### Current research
+
+- **Global Games of Coup d'État: Identification and Estimation**, with Khaled Eltokhy and Weichao Guo — under review. [arXiv](https://arxiv.org/abs/2607.05534)
+- **Demand Estimation with Variable Choice Sets: A Likelihood Correction for Nested Logit**, with Lisa M. George — under review. [SSRN](https://ssrn.com/abstract=7207938)
+
+### Forthcoming
+
+- **A Model of Enclosures: Coordination, Conflict, and Efficiency in the Transformation of Land Property Rights**, with Jonathan Conning — *Review of Economic Studies*, forthcoming. [Online appendix](https://open-enclose.github.io/)
+- **Cultural Transmission, Property Rights, and Treatment of the Elderly**, with Joyce P. Jacobsen — *Journal of Population Economics*, forthcoming.

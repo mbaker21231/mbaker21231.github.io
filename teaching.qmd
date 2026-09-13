@@ -1,0 +1,60 @@
+---
+title: "Teaching"
+---
+
+I teach courses in microeconomic theory, introductory economics, and the
+history and development of economic thought at Hunter College and the
+Graduate Center, CUNY. Below are selected course materials and resources
+that I use in teaching.
+
+## Graduate Microeconomic Theory
+
+My graduate microeconomics materials emphasize strategic interaction,
+information, and computational approaches to economic theory.
+
+::: {.paper}
+### Microeconomics II
+
+Topics include principal-agent problems, bargaining, global games,
+adverse selection, and related applications of game theory.
+
+[Micro II Sandbox](https://github.com/mbaker21231/MicroII-Sandbox)
+:::
+
+## Introductory Economics
+
+For introductory economics at Hunter, I use a variety of examples,
+data, graphical exercises, and supplementary materials to connect basic
+economic models to real-world questions.
+
+::: {.paper}
+### ECO 100 — Introduction to Economics
+
+Jonathan Conning has assembled a useful collection of notes and teaching
+resources for ECO 100 at Hunter.
+
+[ECO 100 Resources](https://github.com/jhconning/eco100)
+:::
+
+## Development of Economic Thought
+
+This course examines the development of economic ideas in their historical
+and intellectual context, from early political economy through the
+development of modern economics.
+
+::: {.paper}
+### History of Economic Thought Resources
+
+The History of Economic Thought Website is an extensive reference for
+economists, schools of thought, original texts, essays, and related
+historical material.
+
+[History of Economic Thought Website](https://www.hetwebsite.net/het/)
+:::
+
+## Video
+
+Selected lectures, discussions, and other economics material are also
+available on my YouTube channel.
+
+[YouTube](https://www.youtube.com/@matthewbaker494)

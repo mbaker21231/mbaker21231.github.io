@@ -1,0 +1,49 @@
+---
+title: "Research"
+---
+
+## Papers under review
+
+::: {.paper}
+### Global Games of Coup d'État: Identification and Estimation
+**Matthew J. Baker, Khaled Eltokhy, and Weichao Guo** · 2026
+
+A structural global-games model of coup attempts and success that separates incentives to rebel from regime strength, coordination, and information quality.
+
+[arXiv](https://arxiv.org/abs/2607.05534)
+:::
+
+::: {.paper}
+### Demand Estimation with Variable Choice Sets: A Likelihood Correction for Nested Logit
+**Matthew J. Baker and Lisa M. George** · 2026
+
+We derive the exact likelihood for the Berry (1994) share-form nested logit when choice sets vary across markets, identify a Jacobian correction that matters for within-nest substitution, and apply the estimator to Medicare Advantage plan proliferation.
+
+[SSRN](https://ssrn.com/abstract=7207938) · [DOI](https://doi.org/10.2139/ssrn.7207938) · [GitHub / exactnl](https://github.com/lisa-george/exactnl)
+:::
+
+## Forthcoming publications
+
+::: {.paper}
+### A Model of Enclosures: Coordination, Conflict, and Efficiency in the Transformation of Land Property Rights
+**Matthew J. Baker and Jonathan Conning** · 2026
+
+*Review of Economic Studies*, forthcoming.
+
+A model of the transformation of common-property regimes in which private enclosure decisions can be strategic complements or substitutes, with implications for coordination, conflict, and efficiency.
+
+[Online appendix and replication materials](https://open-enclose.github.io/)
+:::
+
+::: {.paper}
+### Cultural Transmission, Property Rights, and Treatment of the Elderly
+**Matthew J. Baker and Joyce P. Jacobsen** · 2026
+
+*Journal of Population Economics*, forthcoming.
+
+A model of how property rights, production technologies, and cultural transmission interact to shape the treatment and economic position of the elderly.
+:::
+
+## Publications and other research
+
+For a complete publication list, software packages, and other research outputs, see my [full CV](files/Matthew_Baker_CV.pdf) or [RePEc profile](https://ideas.repec.org/e/pba114.html).

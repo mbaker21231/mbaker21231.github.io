@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Matthew J. Baker"
+  description: "Economist at Hunter College and the Graduate Center, CUNY"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: https://www.youtube.com/@matthewbaker494
+        text: YouTube        
+      - icon: envelope
+        href: mailto:matthew.baker@hunter.cuny.edu
+        aria-label: Email
+        
+    right:
+      - icon: github
+        href: https://github.com/mbaker21231
+        aria-label: GitHub
+      - icon: mortarboard
+        href: https://www.gc.cuny.edu/people/matthew-baker
+        aria-label: CUNY Graduate Center profile
+  page-footer:
+    left: "© Matthew J. Baker"
+    right: "Built with Quarto · Hosted on GitHub Pages"
+  open-graph: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

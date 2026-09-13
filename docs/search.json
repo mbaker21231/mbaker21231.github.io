@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I teach courses in microeconomic theory, introductory economics, and the history and development of economic thought at Hunter College and the Graduate Center, CUNY. Below are selected course materials and resources that I use in teaching."
+  },
+  {
+    "objectID": "teaching.html#graduate-microeconomic-theory",
+    "href": "teaching.html#graduate-microeconomic-theory",
+    "title": "Teaching",
+    "section": "Graduate Microeconomic Theory",
+    "text": "Graduate Microeconomic Theory\nMy graduate microeconomics materials emphasize strategic interaction, information, and computational approaches to economic theory.\n\nMicroeconomics II\nTopics include principal-agent problems, bargaining, global games, adverse selection, and related applications of game theory.\nMicro II Sandbox"
+  },
+  {
+    "objectID": "teaching.html#introductory-economics",
+    "href": "teaching.html#introductory-economics",
+    "title": "Teaching",
+    "section": "Introductory Economics",
+    "text": "Introductory Economics\nFor introductory economics at Hunter, I use a variety of examples, data, graphical exercises, and supplementary materials to connect basic economic models to real-world questions.\n\nECO 100 — Introduction to Economics\nJonathan Conning has assembled a useful collection of notes and teaching resources for ECO 100 at Hunter.\nECO 100 Resources"
+  },
+  {
+    "objectID": "teaching.html#development-of-economic-thought",
+    "href": "teaching.html#development-of-economic-thought",
+    "title": "Teaching",
+    "section": "Development of Economic Thought",
+    "text": "Development of Economic Thought\nThis course examines the development of economic ideas in their historical and intellectual context, from early political economy through the development of modern economics.\n\nHistory of Economic Thought Resources\nThe History of Economic Thought Website is an extensive reference for economists, schools of thought, original texts, essays, and related historical material.\nHistory of Economic Thought Website"
+  },
+  {
+    "objectID": "teaching.html#video",
+    "href": "teaching.html#video",
+    "title": "Teaching",
+    "section": "Video",
+    "text": "Video\nSelected lectures, discussions, and other economics material are also available on my YouTube channel.\nYouTube"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Matthew J. Baker",
+    "section": "",
+    "text": "ECONOMICS · CUNY\n\n\n\n\n\nI work on questions in political economy, institutions, law and economics, and applied econometrics, with a particular interest in how strategic behavior and institutions shape economic outcomes.\n\nResearch Curriculum Vitae GitHub"
+  },
+  {
+    "objectID": "index.html#economist-at-hunter-college-the-graduate-center-cuny",
+    "href": "index.html#economist-at-hunter-college-the-graduate-center-cuny",
+    "title": "Matthew J. Baker",
+    "section": "",
+    "text": "I work on questions in political economy, institutions, law and economics, and applied econometrics, with a particular interest in how strategic behavior and institutions shape economic outcomes.\n\nResearch Curriculum Vitae GitHub"
+  },
+  {
+    "objectID": "index.html#current-work",
+    "href": "index.html#current-work",
+    "title": "Matthew J. Baker",
+    "section": "Current work",
+    "text": "Current work\n\n\n Global games & political instability Strategic coordination, information, and empirical models of regime-change events.\nSelected research →\n\n\n Institutions & property rights Historical and empirical work on property institutions, law, and economic change.\nPublications →\n\n\nLinks\n\nGitHub\nCUNY Graduate Center profile\nRePEc profile\nHunter Economics"
+  },
+  {
+    "objectID": "index.html#a-deliberately-simple-site",
+    "href": "index.html#a-deliberately-simple-site",
+    "title": "Matthew J. Baker",
+    "section": "A deliberately simple site",
+    "text": "A deliberately simple site\nThis is meant to be easy to maintain. A new paper can be added with a title, a two-line description, and links to the paper, appendix, code, or replication files. No database or web editor is required: edit a .qmd file, render, and push to GitHub."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Professor of Economics, Hunter College and The Graduate Center, City University of New York\nDownload full CV (PDF)\nGraduate Center profile · RePEc · GitHub\n\n\n\nGlobal Games of Coup d’État: Identification and Estimation, with Khaled Eltokhy and Weichao Guo — under review. arXiv\nDemand Estimation with Variable Choice Sets: A Likelihood Correction for Nested Logit, with Lisa M. George — under review. SSRN\n\n\n\n\n\nA Model of Enclosures: Coordination, Conflict, and Efficiency in the Transformation of Land Property Rights, with Jonathan Conning — Review of Economic Studies, forthcoming. Online appendix\nCultural Transmission, Property Rights, and Treatment of the Elderly, with Joyce P. Jacobsen — Journal of Population Economics, forthcoming."
+  },
+  {
+    "objectID": "cv.html#matthew-j.-baker",
+    "href": "cv.html#matthew-j.-baker",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Professor of Economics, Hunter College and The Graduate Center, City University of New York\nDownload full CV (PDF)\nGraduate Center profile · RePEc · GitHub\n\n\n\nGlobal Games of Coup d’État: Identification and Estimation, with Khaled Eltokhy and Weichao Guo — under review. arXiv\nDemand Estimation with Variable Choice Sets: A Likelihood Correction for Nested Logit, with Lisa M. George — under review. SSRN\n\n\n\n\n\nA Model of Enclosures: Coordination, Conflict, and Efficiency in the Transformation of Land Property Rights, with Jonathan Conning — Review of Economic Studies, forthcoming. Online appendix\nCultural Transmission, Property Rights, and Treatment of the Elderly, with Joyce P. Jacobsen — Journal of Population Economics, forthcoming."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Matthew J. Baker, Khaled Eltokhy, and Weichao Guo · 2026\nA structural global-games model of coup attempts and success that separates incentives to rebel from regime strength, coordination, and information quality.\narXiv\n\n\n\nMatthew J. Baker and Lisa M. George · 2026\nWe derive the exact likelihood for the Berry (1994) share-form nested logit when choice sets vary across markets, identify a Jacobian correction that matters for within-nest substitution, and apply the estimator to Medicare Advantage plan proliferation.\nSSRN · DOI · GitHub / exactnl"
+  },
+  {
+    "objectID": "research.html#papers-under-review",
+    "href": "research.html#papers-under-review",
+    "title": "Research",
+    "section": "",
+    "text": "Matthew J. Baker, Khaled Eltokhy, and Weichao Guo · 2026\nA structural global-games model of coup attempts and success that separates incentives to rebel from regime strength, coordination, and information quality.\narXiv\n\n\n\nMatthew J. Baker and Lisa M. George · 2026\nWe derive the exact likelihood for the Berry (1994) share-form nested logit when choice sets vary across markets, identify a Jacobian correction that matters for within-nest substitution, and apply the estimator to Medicare Advantage plan proliferation.\nSSRN · DOI · GitHub / exactnl"
+  },
+  {
+    "objectID": "research.html#forthcoming-publications",
+    "href": "research.html#forthcoming-publications",
+    "title": "Research",
+    "section": "Forthcoming publications",
+    "text": "Forthcoming publications\n\nA Model of Enclosures: Coordination, Conflict, and Efficiency in the Transformation of Land Property Rights\nMatthew J. Baker and Jonathan Conning · 2026\nReview of Economic Studies, forthcoming.\nA model of the transformation of common-property regimes in which private enclosure decisions can be strategic complements or substitutes, with implications for coordination, conflict, and efficiency.\nOnline appendix and replication materials\n\n\nCultural Transmission, Property Rights, and Treatment of the Elderly\nMatthew J. Baker and Joyce P. Jacobsen · 2026\nJournal of Population Economics, forthcoming.\nA model of how property rights, production technologies, and cultural transmission interact to shape the treatment and economic position of the elderly."
+  },
+  {
+    "objectID": "research.html#publications-and-other-research",
+    "href": "research.html#publications-and-other-research",
+    "title": "Research",
+    "section": "Publications and other research",
+    "text": "Publications and other research\nFor a complete publication list, software packages, and other research outputs, see my full CV or RePEc profile."
+  }
+]

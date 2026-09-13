@@ -1,0 +1,63 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero-wrap}
+::: {.hero-copy}
+<div class="eyebrow">ECONOMICS · CUNY</div>
+
+# Matthew J. Baker
+
+## Economist at Hunter College & the Graduate Center, CUNY
+
+I work on questions in **political economy, institutions, law and economics, and applied econometrics**, with a particular interest in how strategic behavior and institutions shape economic outcomes.
+
+<div class="hero-links">
+<a class="btn btn-primary" href="research.qmd">Research</a>
+<a class="btn btn-outline-dark" href="cv.qmd">Curriculum Vitae</a>
+<a class="btn btn-outline-dark" href="https://github.com/mbaker21231">GitHub</a>
+</div>
+:::
+
+::: {.hero-image}
+![](images/headshot.png){fig-alt="Matthew J. Baker"}
+:::
+:::
+
+::: {.stripe}
+## Current work
+
+::: {.card-grid}
+::: {.site-card}
+![](images/research-network.svg){fig-alt="Abstract network diagram"}
+Global games & political instability
+Strategic coordination, information, and empirical models of regime-change events.
+
+[Selected research →](research.qmd)
+:::
+
+::: {.site-card}
+![](images/nyc-lines.svg){fig-alt="Abstract New York skyline line drawing"}
+Institutions & property rights
+Historical and empirical work on property institutions, law, and economic change.
+
+[Publications →](research.qmd)
+:::
+
+::: {.site-card .text-card}
+### Links
+
+- [GitHub](https://github.com/mbaker21231)
+- [CUNY Graduate Center profile](https://www.gc.cuny.edu/people/matthew-baker)
+- [RePEc profile](https://ideas.repec.org/e/pba114.html)
+- [Hunter Economics](https://www.hunter.cuny.edu/artsci/economics/)
+:::
+:::
+:::
+
+::: {.home-section}
+## A deliberately simple site
+
+This is meant to be easy to maintain. A new paper can be added with a title, a two-line description, and links to the paper, appendix, code, or replication files. No database or web editor is required: edit a `.qmd` file, render, and push to GitHub.
+:::
