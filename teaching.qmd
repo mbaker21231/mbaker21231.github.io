@@ -36,6 +36,14 @@ resources for ECO 100 at Hunter.
 [ECO 100 Resources](https://github.com/jhconning/eco100)
 :::
 
+::: {.paper}
+### Interactive supply and demand
+
+Explore market prices, price ceilings and floors, per-unit taxes, and subsidies with interactive graphs and sliders.
+
+[Open the interactive exercises](interactive-economics.html)
+:::
+
 ## Development of Economic Thought
 
 This course examines the development of economic ideas in their historical

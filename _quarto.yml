@@ -13,6 +13,8 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
+      - href: interactive-economics.html
+        text: Interactive Economics
       - href: cv.qmd
         text: CV
       - href: https://www.youtube.com/@matthewbaker494
