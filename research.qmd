@@ -44,6 +44,40 @@ A model of the transformation of common-property regimes in which private enclos
 A model of how property rights, production technologies, and cultural transmission interact to shape the treatment and economic position of the elderly.
 :::
 
+## Selected publications
+
+::: {.paper}
+### An Equilibrium Conflict Model of Land Tenure in Hunter-Gatherer Societies
+Matthew J. Baker · [*Journal of Political Economy*](https://www.journals.uchicago.edu/doi/10.1086/344800)
+:::
+
+::: {.paper}
+### A Structural Model of the Transition to Agriculture
+Matthew J. Baker · [*Journal of Economic Growth*](https://link.springer.com/article/10.1007/s10887-008-9034-6)
+:::
+
+::: {.paper}
+### Land Inheritance Rules: Theory and Cross-Cultural Analysis
+Matthew J. Baker and Thomas J. Miceli · [*Journal of Economic Behavior & Organization*](https://www.sciencedirect.com/science/article/abs/pii/S0167268104000496)
+:::
+
+::: {.paper}
+### Marriage, Specialization, and the Gender Division of Labor
+Matthew J. Baker and Joyce P. Jacobsen · [*Journal of Labor Economics*](https://www.journals.uchicago.edu/doi/10.1086/522907)
+:::
+
+## Off the beaten path
+
+::: {.paper}
+### Was Civil War Surgery Effective?
+Matthew J. Baker · [*Historical Methods*](https://www.tandfonline.com/doi/abs/10.1080/01615440.2017.1408440)
+:::
+
+::: {.paper}
+### Foundations of the Age-Area Hypothesis
+Matthew J. Baker · [*Humanities and Social Sciences Communications*](https://www.nature.com/articles/s41599-021-00991-8)
+:::
+
 ## Publications and other research
 
 For a complete publication list, software packages, and other research outputs, see my [full CV](files/Matthew_Baker_CV.pdf) or [RePEc profile](https://ideas.repec.org/e/pba114.html).
