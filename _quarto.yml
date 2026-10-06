@@ -32,7 +32,6 @@ website:
         aria-label: CUNY Graduate Center profile
   page-footer:
     left: "© Matthew J. Baker"
-    right: "Built with Quarto · Hosted on GitHub Pages"
   open-graph: true
 
 format:

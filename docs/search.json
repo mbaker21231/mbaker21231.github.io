@@ -56,13 +56,6 @@
     "text": "Current work\n\n\n Global games & political instability Strategic coordination, information, and empirical models of regime-change events.\nSelected research →\n\n\n Institutions & property rights Historical and empirical work on property institutions, law, and economic change.\nPublications →\n\n\nLinks\n\nGitHub\nCUNY Graduate Center profile\nRePEc profile\nHunter Economics"
   },
   {
-    "objectID": "index.html#a-deliberately-simple-site",
-    "href": "index.html#a-deliberately-simple-site",
-    "title": "Matthew J. Baker",
-    "section": "A deliberately simple site",
-    "text": "A deliberately simple site\nThis is meant to be easy to maintain. A new paper can be added with a title, a two-line description, and links to the paper, appendix, code, or replication files. No database or web editor is required: edit a .qmd file, render, and push to GitHub."
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",

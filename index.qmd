@@ -55,9 +55,3 @@ Historical and empirical work on property institutions, law, and economic change
 :::
 :::
 :::
-
-::: {.home-section}
-## A deliberately simple site
-
-This is meant to be easy to maintain. A new paper can be added with a title, a two-line description, and links to the paper, appendix, code, or replication files. No database or web editor is required: edit a `.qmd` file, render, and push to GitHub.
-:::
