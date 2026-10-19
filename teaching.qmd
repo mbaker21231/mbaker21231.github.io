@@ -37,9 +37,9 @@ resources for ECO 100 at Hunter.
 :::
 
 ::: {.paper}
-### Interactive supply and demand
+### Interactive economics
 
-Explore market prices, price ceilings and floors, per-unit taxes, and subsidies with interactive graphs and sliders.
+Explore supply and demand, price controls, taxes, subsidies, and competitive-firm profit maximization with interactive graphs and sliders.
 
 [Open the interactive exercises](interactive-economics.html)
 :::

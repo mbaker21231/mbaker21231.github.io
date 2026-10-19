@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - interactive-economics.html
+    - supply-demand.html
+    - profit-maximization.html
 
 website:
   title: "Matthew J. Baker"
